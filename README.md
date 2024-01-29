@@ -8,3 +8,8 @@ Program jest w stanie pobrać wszystkie informacje :) (Ale trzeba dodawać ręcz
 
 Autor: Tomasz Krzemiński Nr. Albumu: 51084
 
+# Zdjęcia
+
+![](OSINT_Zaliczenie_Tomasz_Krzemiński_51084/img/PoC.png)
+
+![](OSINT_Zaliczenie_Tomasz_Krzemiński_51084/img/PoC2.png)
